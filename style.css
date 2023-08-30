@@ -1,0 +1,243 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+.form-container{
+  background-color: #b3b3ff;
+  height: 109vh;
+  width: 80vh;
+  border-radius: 14px;
+  border: 5px;
+  box-shadow: 1px 1px 8px 10px blue;
+  transform: rotate(20deg);
+   display: flex;
+  gap: 30vh;
+
+  
+}
+body {
+  background-image: url("images/13.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  padding-top: 5rem;
+   padding-left: 5rem;
+   height: 180vh;
+
+  }
+
+  .navimg{
+  padding-top: 5vh;
+  padding-left: 35vh;
+
+  
+}
+
+.my-picture{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+
+}
+
+.member{
+    padding-left: 30vh;
+    padding-bottom: 5vh;
+}
+
+.navbar{
+    padding-left: 12vh;  
+}
+
+.input1{
+  width: 55vh;
+}
+
+.divinput2{
+  padding-top: 3vh;
+  position: relative;
+}
+
+.input2{
+  width: 55vh;
+}
+
+
+
+.checkbox{
+  padding-top: 5vh;
+  display: flex;
+    gap: 4vh;
+
+}
+
+.checkbox a{
+  color: black;
+  text-decoration: none;
+  font-weight: 800;
+}
+ .checkbox p{
+    font-weight: 800;
+ }
+
+ .signin{
+  background-color: green;
+  color: white;
+  border: 0px;
+  width:  55vh;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  font-weight: 800;
+  font-size: 1rem;
+ }
+
+ .btn-1{
+  padding-top: 5vh;
+ }
+
+  .Login{
+  background-color: blue;
+  color: white;
+  border: 0px;
+  width:  55vh;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  font-weight: 800rem;
+  font-size: 1rem;
+ }
+
+ .btn-2{
+  padding-top: 5vh;
+ }
+
+ .Register{
+  padding-top: 2vh;
+ }
+
+
+ .Register p{
+  cursor: pointer;
+ }
+
+
+
+
+
+
+
+.form-container2{
+  background-color: #b3b3ff;
+  height: 109vh;
+  width: 80vh;
+  border-radius: 14px;
+  border: 5px;
+  box-shadow: 1px 1px 8px 10px red;
+  transform: skewY(-20deg);
+
+ 
+}
+
+
+  .navimg2{
+  padding-top: 5vh;
+  padding-left: 20vh;
+
+  
+}
+
+.my-picture{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+
+}
+
+.member{
+    padding-left: 20 vh;
+    padding-bottvh;
+}
+
+.navbar{
+    padding-left: 12vh;  
+}
+
+.input1{
+  width: 55vh;
+}
+
+.divinput2{
+  padding-top: 3vh;
+}
+
+.input2{
+  width: 55vh;
+}
+
+
+
+.checkbox{
+  padding-top: 5vh;
+  display: flex;
+    gap: 4vh;
+
+}
+
+.checkbox a{
+  color: black;
+  text-decoration: none;
+  font-weight: 800;
+}
+ .checkbox p{
+    font-weight: 800;
+ }
+
+ .signin{
+  background-color: green;
+  color: white;
+  border: 0px;
+  width:  55vh;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  font-weight: 800;
+  font-size: 1rem;
+ }
+
+ .btn-1{
+  padding-top: 5vh;
+ }
+
+  .Login{
+  background-color: blue;
+  color: white;
+  border: 0px;
+  width:  55vh;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  font-weight: 800rem;
+  font-size: 1rem;
+ }
+
+ .btn-2{
+  padding-top: 5vh;
+ }
+
+ .Register{
+  padding-top: 2vh;
+ }
+
+
+ .Register p{
+  cursor: pointer;
+ }
+
+
+
+
+
+ 
